@@ -1,5 +1,7 @@
 # O'Note
 
+dépot initial : https://github.com/timberlek78/O-Notes
+
 ## Depuis un serveur local linux (à l'IUT)
 
 ### A) Installation du projet
